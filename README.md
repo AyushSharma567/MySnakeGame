@@ -1,6 +1,11 @@
 # Snake Game in Java
 A simple implementation of the classic Snake game using Java and Swing. This project is designed to help beginners understand game development concepts and Java programming techniques.
 
+![run game](https://i.ibb.co/N385cpY/image.png)
+
+![Game Over](https://i.ibb.co/XZRMP9J/image.png)
+
+
 ##  Features
 
 - Classic Snake gameplay
